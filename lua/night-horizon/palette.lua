@@ -16,6 +16,9 @@ return {
 		yellow = "#e5c07b",
 		cyan = "#56b6c2",
 		red = "#e86671",
+		sky = "#0298db", -- redefine an existing color
+		cloud = "#4ec8de",
+		greener = "#26c98e",
 		grey = "#5c6370",
 		light_grey = "#848b98",
 		dark_cyan = "#2b6f77",
@@ -72,6 +75,9 @@ return {
 		green = "#97ca72",
 		orange = "#d99a5e",
 		blue = "#5ab0f6",
+		sky = "#0298db", -- redefine an existing color
+		cloud = "#4ec8de",
+		greener = "#26c98e",
 		yellow = "#ebc275",
 		cyan = "#4dbdcb",
 		red = "#ef5f6b",
@@ -97,6 +103,9 @@ return {
 		bg_yellow = "#f2cc81",
 		fg = "#93a4c3",
 		purple = "#c75ae8",
+		sky = "#0298db", -- redefine an existing color
+		cloud = "#4ec8de",
+		greener = "#26c98e",
 		green = "#8bcd5b",
 		orange = "#dd9046",
 		blue = "#41a7fc",
@@ -128,6 +137,9 @@ return {
 		green = "#99bc80",
 		orange = "#c99a6e",
 		blue = "#68aee8",
+		sky = "#0298db", -- redefine an existing color
+		cloud = "#4ec8de",
+		greener = "#26c98e",
 		yellow = "#dfbe81",
 		cyan = "#5fafb9",
 		red = "#e16d77",
@@ -157,6 +169,9 @@ return {
 		orange = "#c49060",
 		blue = "#57a5e5",
 		yellow = "#dbb671",
+		sky = "#0298db", -- redefine an existing color
+		cloud = "#4ec8de",
+		greener = "#26c98e",
 		cyan = "#51a8b3",
 		red = "#de5d68",
 		grey = "#5a5b5e",
