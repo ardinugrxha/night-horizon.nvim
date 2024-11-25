@@ -1,4 +1,4 @@
-local colors = require("onedark.palette")
+local colors = require("night-horizon.palette")
 
 local function select_colors()
 	local selected = { none = "none" }

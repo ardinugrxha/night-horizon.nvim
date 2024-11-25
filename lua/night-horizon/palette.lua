@@ -39,6 +39,9 @@ return {
 		fg = "#a0a8b7",
 		purple = "#bf68d9",
 		green = "#8ebd6b",
+		sky = "#0298db", -- redefine an existing color
+		cloud = "#4ec8de",
+		greener = "#26c98e",
 		orange = "#cc9057",
 		blue = "#4fa6ed",
 		yellow = "#e2b86b",
